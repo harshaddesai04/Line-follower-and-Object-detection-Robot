@@ -1,4 +1,4 @@
 # Line-follower-and-Object-detection-Robot
 
 
-![Alt Text](path/to/image.png)
+![Alt Text](IMG-20240701-WA0001.jpg)
